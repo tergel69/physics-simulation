@@ -1,5 +1,6 @@
+/* [project]/OneDrive/Documents/blackhhole/blackhole-sim/app/globals.css [app-client] (css) */
 :root {
-  --background: #ffffff;
+  --background: #fff;
   --foreground: #171717;
 }
 
@@ -11,8 +12,10 @@
 }
 
 body {
-  margin: 0;
   background: var(--background);
   color: var(--foreground);
+  margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/*# sourceMappingURL=OneDrive_Documents_blackhhole_blackhole-sim_app_globals_cbd69aa5.css.map*/
